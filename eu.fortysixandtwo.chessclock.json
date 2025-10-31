@@ -1,7 +1,7 @@
 {
     "app-id" : "eu.fortysixandtwo.chessclock",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "49",
     "sdk" : "org.gnome.Sdk",
     "command" : "chess-clock",
     "finish-args" : [
@@ -58,7 +58,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.gnome.org/World/chess-clock.git",
-                    "tag" : "v0.6.1"
+                    "tag" : "v0.6.2"
                 }
             ]
         }
